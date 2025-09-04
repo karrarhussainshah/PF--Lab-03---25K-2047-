@@ -1,2 +1,11 @@
 # PF--Lab-03---25K-2047-
-I am a student of BS-Cyber Security at FAST NU Karachi and I am intersted in network security.
+* PF
+* Calculus
+* AP
+
+1. Bat
+2. Bowl
+3. Stumps
+
+**My name is Karrar Hussain Shah**
+_A Cyber Security Student_
